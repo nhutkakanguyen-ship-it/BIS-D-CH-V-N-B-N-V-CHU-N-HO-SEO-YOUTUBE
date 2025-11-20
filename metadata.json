@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Bis-App dịch văn bản",
+  "description": "A web application that uses the Gemini API to translate text into various popular languages. Users can input text, select a target language (English, German, French, Russian, Spanish, Vietnamese), and receive a translation.",
+  "requestFramePermissions": []
+}
